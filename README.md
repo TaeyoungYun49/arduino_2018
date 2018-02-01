@@ -14,8 +14,8 @@ http://www.instructables.com/id/Duvet-Eating-Alarm-Clock/
 
 This project is making an alarm clock machine that removes your blanket. 
 
-3. Arduino Infinity Mirror (Bluetooth & Sound reactive)
-Link: http://www.instructables.com/id/Arduino-Infinity-Mirror-Bluetooth-Sound-Reactive/
+3. Music Sequencer Table Plays Michael Jackson
+Link: https://www.youtube.com/watch?v=mIvc6uBDGzU
 
-This project is an Infinity Mirror controllable with your phone or tablet by using Bluetooth. The mirror also has a built-in microphone which detects sound and reacts accordingly. 
-
+(I'm not sure this is arduino project, but I found it interesting)
+This is an interactive music table with glowing LED sensors added to the table top. As you put transparent balls on the sensors, the tune becomes a remix of Michael Jackson's Billy Jean.
