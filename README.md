@@ -58,5 +58,5 @@ This is an interactive music table with glowing LED sensors added to the table t
 
 #### PIR motion Sensor : detect motion / whether a human has moved in or out of the sensor range
 	- PIR, Passive Infrared, Pyroelectric, IR motion
-  - Basically made of a pyroelectric sensor
-  - Takes the output of the sensor and does some minor processing on it to emit a digital output pulse from the analog sensor.
+	- Basically made of a pyroelectric sensor
+	- Takes the output of the sensor and does some minor processing on it to emit a digital output pulse from the analog sensor.
