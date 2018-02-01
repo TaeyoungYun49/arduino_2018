@@ -3,19 +3,60 @@
 
 
 ### Interesting Arduino Project
-Interesting Arduino Project
 
-1. Sleep quality meter http://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2017/nas256_jbc262/nas256_jbc262/website/index.html
+#### 1. Sleep quality meter http://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2017/nas256_jbc262/nas256_jbc262/website/index.html
 
 This project is a system that monitors the quality of the sleep of the user by tracking heart rate, breathing rate, and movement. 
 
-2. Duvet Eating alarm clock
+#### 2. Duvet Eating alarm clock
 http://www.instructables.com/id/Duvet-Eating-Alarm-Clock/
 
 This project is making an alarm clock machine that removes your blanket. 
 
-3. Music Sequencer Table Plays Michael Jackson
+#### 3. Music Sequencer Table Plays Michael Jackson
 Link: https://www.youtube.com/watch?v=mIvc6uBDGzU
 
 (I'm not sure this is arduino project, but I found it interesting)
 This is an interactive music table with glowing LED sensors added to the table top. As you put transparent balls on the sensors, the tune becomes a remix of Michael Jackson's Billy Jean.
+
+### Sensors
+: Detect what's going on in the world and act on that information.
+
+#### FSR(Force Sensitive Resistor) : detect physical pressure
+	- Consist of 2 layers separated by a spacer.
+	- More pressure(More active element dots) makes resistance go down.
+	- FSRs are basically a resistor.
+	- Easy to use but rarely accurate.
+	- Resistance range : 100KΩ (light pressure) to 200Ω (max. pressure)
+	- Force range : 0 to 20lb
+	- Power supply : Any
+
+#### Photocells : detect brightness, simple object
+	- Often referred to as CdS(Cadmium-Sulfide) cells, light-dependent resistors(LDR), and photoresistors.
+	- Changes its resistive value depending on how much light is shining onto the squiggly face.
+	- Low cost, but inaccurate.
+	- Resistance range: 200KΩ (dark) to 10KΩ (10 lux brightness)
+	- Sensitivity range: CdS cells respond to light between 400nm (violet) and 600nm (orange) wavelengths, peaking at about 520nm (green).
+	- Power supply: pretty much anything up to 100V, uses less than 1mA of current on average (depends on power supply voltage)
+
+#### Temperature TMP 36 Sensor
+	- Tells you what the ambient temperature is.
+	- Uses a solid-state technique
+	- Uses the fact as temperature increases, the voltage across a diode increases at a known rate.
+	- By precisely amplifying the voltage change, it is easy to generate an analog signal that is directyl proportional to temperature.
+	- The calculation is inside the chip.
+	- Precise and never wear out.
+	- Temperature range: -40°C to 150°C / -40°F to 302°F
+	- Output range: 0.1V (-40°C) to 2.0V (150°C) but accuracy decreases after 125°C
+	- Power supply: 2.7V to 5.5V only, 0.05 mA current draw
+  
+#### Tilt Sensor : detect orientation or incliation
+	- Usually made by a cavity of some sort and a conductive free mass inside
+	- End of cavity : two conductive elements(poles)
+	- Sensitivity range: > +-15 degrees
+	- Power supply: Up to 24V, switching less than 5mA
+
+#### PIR motion Sensor : detect motion / whether a human has moved in or out of the sensor range
+	- PIR, Passive Infrared, Pyroelectric, IR motion
+  - Basically made of a pyroelectric sensor
+  - Takes the output of the sensor and does some minor processing on it to emit a digital output pulse from the analog sensor.
