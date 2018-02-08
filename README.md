@@ -83,16 +83,19 @@ References for the project
 </html>
 
 #### Reference for Schematic
-Plant Communicator<br>
+#### Plant Communicator
 Ever wished you could talk with your plants?<br>
 https://create.arduino.cc/projecthub/arduino/plant-communicator-7ea06f?ref=platform&ref_id=424_trending___&offset=21<br>
-Arduino Sunflower<br>
+#### Arduino Sunflower
 The sunflower follows the light using a servo motor and two photoresistors. <br>
 https://create.arduino.cc/projecthub/Rick_Findus/arduino-sunflower-c4fd84?ref=platform&ref_id=424_trending___&offset=63<br>
-Motion controlled color changer<br>
+#### Motion controlled color changer
 Using the power of motion, swipe in 4 directions to change the color of an LED! <br>
 https://create.arduino.cc/projecthub/gatoninja236/motion-controlled-color-changer-299217?ref=tag&ref_id=sensor&offset=10<br>
-Reactive LED Coffee Table - Arduino<br>
+#### Arduino Temperature - Humidity - Rain Sensor
+On the display is printed temperature (celsius) and humidity (%) with a DHT11. When it's raining the LED lights up. You need a rain sensor!<br>
+https://create.arduino.cc/projecthub/Rick_Findus/arduino-temperature-humidity-rain-sensor-4ef707?ref=tag&ref_id=sensor&offset=27<br>
+#### Reactive LED Coffee Table - Arduino<
 https://www.youtube.com/watch?v=xkohbr9ApMo<br>
-DIY Interactive Coffee Table<br>
+#### DIY Interactive Coffee Table
 https://www.youtube.com/watch?v=L3l-zJafOnc&t=100s
