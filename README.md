@@ -75,9 +75,8 @@ References for the project
 
 #### Sketches/Ideation
 (I put an image, but it's not showing up for some reason...)
-<html>
-<img src = "https://github.com/TaeyoungYun49/arduino_2018/blob/master/Project1_Ideation.jpg">
-</html>
+
+![ideation](/images/Project1_Ideation.JPG)
 
 #### Reference for Schematic
 #### Plant Communicator
