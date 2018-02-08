@@ -95,7 +95,7 @@ https://create.arduino.cc/projecthub/gatoninja236/motion-controlled-color-change
 #### Arduino Temperature - Humidity - Rain Sensor
 On the display is printed temperature (celsius) and humidity (%) with a DHT11. When it's raining the LED lights up. You need a rain sensor!<br>
 https://create.arduino.cc/projecthub/Rick_Findus/arduino-temperature-humidity-rain-sensor-4ef707?ref=tag&ref_id=sensor&offset=27<br>
-#### Reactive LED Coffee Table - Arduino<
+#### Reactive LED Coffee Table - Arduino
 https://www.youtube.com/watch?v=xkohbr9ApMo<br>
 #### DIY Interactive Coffee Table
 https://www.youtube.com/watch?v=L3l-zJafOnc&t=100s
