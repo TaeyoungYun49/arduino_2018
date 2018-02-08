@@ -73,8 +73,9 @@ Can I make the light or sound react by gestures?
 A cup plate that recognizes the temperature of your drink and tells you when it's  a perfect time to drink. There will be three lights on the plate: Red, white, and Blue. Red means it's too hot, Blue means it's too cold, and white means it's at the right temperature. When the drink reaches the good temperature zone, it makes the sound to let the user know about it. 
 References for the project
 
-
+<html>
 <img src="https://github.com/TaeyoungYun49/arduino_2018/blob/master/Project1_Ideation.jpg" alt=“ideation” height=“907” width=“556”>
+</html>
 
 Motion controlled color changer<br>
 Using the power of motion, swipe in 4 directions to change the color of an LED! <br>
