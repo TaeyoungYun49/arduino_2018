@@ -78,7 +78,7 @@ References for the project
 
 ![ideation](/images/Project1_Ideation.JPG)
 
-#### Reference for Schematic
+#### Reference for Schematic / further development
 #### Plant Communicator
 Ever wished you could talk with your plants?<br>
 https://create.arduino.cc/projecthub/arduino/plant-communicator-7ea06f?ref=platform&ref_id=424_trending___&offset=21<br>
