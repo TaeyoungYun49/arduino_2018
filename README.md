@@ -1,6 +1,6 @@
 # arduino_2018
 
-##Week2
+## Week2
 
 ### Interesting Arduino Project
 
@@ -62,4 +62,4 @@ This is an interactive music table with glowing LED sensors added to the table t
 	- Takes the output of the sensor and does some minor processing on it to emit a digital output pulse from the analog sensor.
 
 
-##Week3
+## Week3
