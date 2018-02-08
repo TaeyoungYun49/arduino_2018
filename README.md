@@ -74,9 +74,7 @@ A cup plate that recognizes the temperature of your drink and tells you when it'
 References for the project
 
 <html>
-	<body>
 <img src="https://github.com/TaeyoungYun49/arduino_2018/blob/master/Project1_Ideation.jpg" alt=“ideation” height=“907” width=“556”>
-	</body>
 </html>
 
 Motion controlled color changer<br>
