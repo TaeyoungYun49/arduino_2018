@@ -83,6 +83,12 @@ References for the project
 </html>
 
 #### Reference for Schematic
+Plant Communicator<br>
+Ever wished you could talk with your plants?<br>
+https://create.arduino.cc/projecthub/arduino/plant-communicator-7ea06f?ref=platform&ref_id=424_trending___&offset=21<br>
+Arduino Sunflower<br>
+The sunflower follows the light using a servo motor and two photoresistors. <br>
+https://create.arduino.cc/projecthub/Rick_Findus/arduino-sunflower-c4fd84?ref=platform&ref_id=424_trending___&offset=63<br>
 Motion controlled color changer<br>
 Using the power of motion, swipe in 4 directions to change the color of an LED! <br>
 https://create.arduino.cc/projecthub/gatoninja236/motion-controlled-color-changer-299217?ref=tag&ref_id=sensor&offset=10<br>
