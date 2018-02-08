@@ -64,6 +64,7 @@ This is an interactive music table with glowing LED sensors added to the table t
 
 ## Week3
 
+### Ideas for Project1
 1.
 LEDs on the panel lights up if people approach close to them or even walk by them. And if you touch the lightening LEDs, they'll make a sound. As you move your hands, the tone changes. 
 
@@ -73,10 +74,13 @@ Can I make the light or sound react by gestures?
 A cup plate that recognizes the temperature of your drink and tells you when it's  a perfect time to drink. There will be three lights on the plate: Red, white, and Blue. Red means it's too hot, Blue means it's too cold, and white means it's at the right temperature. When the drink reaches the good temperature zone, it makes the sound to let the user know about it. 
 References for the project
 
+#### Sketches/Ideation
+(I put an image, but it's not showing up for some reason...)
 <html>
 <img src = "https://github.com/TaeyoungYun49/arduino_2018/blob/master/Project1_Ideation.jpg">
 </html>
 
+#### Reference for Schematic
 Motion controlled color changer<br>
 Using the power of motion, swipe in 4 directions to change the color of an LED! <br>
 https://create.arduino.cc/projecthub/gatoninja236/motion-controlled-color-changer-299217?ref=tag&ref_id=sensor&offset=10<br>
