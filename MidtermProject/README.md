@@ -16,10 +16,10 @@ My initial idea was making the music player in a 'pen' form. But after researchi
 
 Reference 
 
-*[Plastic Player](http://newtechno.club/2018/02/27/plastic-player-2-open-source-music-controller-analog-interface-for-digital-music/): Analog Interface for digital Music.
+* [Plastic Player](http://newtechno.club/2018/02/27/plastic-player-2-open-source-music-controller-analog-interface-for-digital-music/): Analog Interface for digital Music.
 ![alt text](images/reference_plastic_player.png "PlasticPlayer")
-*[PianoGlove](https://learn.adafruit.com/pianoglove/what-youll-need) : Convert color to music with a wave of your finger.
-*[Veri Pen](https://jihoonsuh.com/veripen/)
+* [PianoGlove](https://learn.adafruit.com/pianoglove/what-youll-need) : Convert color to music with a wave of your finger.
+* [Veri Pen](https://jihoonsuh.com/veripen/)
 
 ### Process: soldering, soldering, soldering…
 Adafruit Wave Shield : [Examples](https://learn.adafruit.com/adafruit-wave-shield-audio-shield-for-arduino/examples)
@@ -39,10 +39,11 @@ Done!
 
 ### Working Prototype
 [Watch Video](https://youtu.be/pFclCZ3zloQ)
-![alt text](06_working_prototype.png "working prototype")
+![alt text](images/06_working_prototype.png "working prototype")
 
 ### Code & Schematic
-[Tutorial and Code](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-wave-shield-audio-shield-for-arduino.pdf)
+* [Wave Shield Tutorial](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-wave-shield-audio-shield-for-arduino.pdf)
+* [Code](https://github.com/TaeyoungYun49/arduino_2018/blob/master/MidtermProject/code/concept_proof/concept_proof.ino)
 
 ### Further Development for Final Project
 * Designing 'Selecting Color' Part
