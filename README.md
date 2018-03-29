@@ -76,7 +76,7 @@ References for the project
 #### Sketches/Ideation
 (I put an image, but it's not showing up for some reason...)
 
-![ideation](/images/Project1_Ideation.JPG)
+![ideation](images/Project1_Ideation.JPG)
 
 #### Reference for Schematic / further development
 #### Plant Communicator
