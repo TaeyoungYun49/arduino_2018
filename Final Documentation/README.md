@@ -13,7 +13,7 @@ Flora color sensor reads the color of the object and plays the music that can be
 
 ### Schematic
 
-[!alt text](images/00music-colorfritzing.png "Schematic")
+![alt text](images/00music-colorfritzing.png "Schematic")
 
 ### Parts List
 Flora color sensor
@@ -23,25 +23,27 @@ Speaker
 
 ### Process Images 
 
-[!alt text](images/01process_waveshield.png "process1")
+![alt text](images/01process_waveshield.png "process1")
 First process using waveshield.
 
-[!alt text](images/02Process_RGB.png "process2")
+![alt text](images/02Process_RGB.png "process2")
 Studying color sensor and RGB LED
 
-[!alt text](images/03Process_waveshield_connect.png "process3")
+![alt text](images/03Process_waveshield_connect.png "process3")
 Connecting waveshield and Color Sensor
 
-[!alt text](images/04Process_switching.png "process4")
+![alt text](images/04Process_switching.png "process4")
 Connecting DFPlayer and Flora Color Sensor
 
-[!alt text](images/05Final_form.png "final")
+![alt text](images/05Final_form.png "final")
 Final form 
 
 ### Video
 [Demonstration Video](https://vimeo.com/267797226)
 
 ### Code/Comment
+>* [Code](https://github.com/TaeyoungYun49/arduino_2018/tree/master/Final%20Documentation/code/music-color)
+
 ```cpp
 #include "Arduino.h"
 #include "SoftwareSerial.h"
@@ -172,7 +174,7 @@ Motivate car guy users to keep up with physical therapy by using car engine soun
 Myoware muscle sensor detects muscle flexion and relaxation and triggers different car sounds. 
 
 ### Schematic
-[!alt text](images/06Schematic.png "schematic")
+![alt text](images/06Schematic.png "schematic")
 (Lilypad mp3, muscle sensor parts are not available on Fritzing)
 
 ### Parts List
@@ -183,14 +185,16 @@ Speaker
 5V battery
 
 ### Final Form 
-[!alt text](images/08front.png "schematic")
-[!alt text](images/07back.png "schematic")
+![alt text](images/08front.png "schematic")
+![alt text](images/07back.png "schematic")
 
 ### Video
 [Start the exercise](https://vimeo.com/267796063)
 [While exercising](https://vimeo.com/267796398)
 
 ### Code/Comment
+>* [Code](https://github.com/TaeyoungYun49/arduino_2018/tree/master/Final%20Documentation/code/ExerciseWithCarSound)
+
 ```cpp
 #include <SPI.h>                // To talk to the SD card and MP3 chip
 #include <SdFat.h>              // SD card file system
