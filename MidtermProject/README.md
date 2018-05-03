@@ -42,8 +42,8 @@ Done!
 ![alt text](images/06_working_prototype.png "working prototype")
 
 ### Code & Schematic
-* [Code](https://github.com/TaeyoungYun49/arduino_2018/blob/master/MidtermProject/code/concept_proof/concept_proof.ino)
-* [Wave Shield Tutorial](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-wave-shield-audio-shield-for-arduino.pdf)
+>* [Code](https://github.com/TaeyoungYun49/arduino_2018/blob/master/MidtermProject/code/concept_proof/concept_proof.ino)
+>* [Wave Shield Tutorial](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-wave-shield-audio-shield-for-arduino.pdf)
 
 ### Further Development for Final Project
 * Designing 'Selecting Color' Part
