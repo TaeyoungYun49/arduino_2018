@@ -16,10 +16,10 @@ Flora color sensor reads the color of the object and plays the music that can be
 ![alt text](images/00music-colorfritzing.png "Schematic")
 
 ### Parts List
-Flora color sensor
-DFPlayer
-Micro SD card
-Speaker
+* Flora color sensor
+* DFPlayer
+* Micro SD card
+* Speaker
 
 ### Process Images 
 
@@ -32,7 +32,7 @@ Studying color sensor and RGB LED
 ![alt text](images/03Process_waveshield_connect.png "process3")
 Connecting waveshield and Color Sensor
 
-![alt text](images/04Process_switching.png "process4")
+![alt text](images/04Process_switching.PNG "process4")
 Connecting DFPlayer and Flora Color Sensor
 
 ![alt text](images/05Final_form.png "final")
@@ -178,11 +178,11 @@ Myoware muscle sensor detects muscle flexion and relaxation and triggers differe
 (Lilypad mp3, muscle sensor parts are not available on Fritzing)
 
 ### Parts List
-MyoWare Muscle Sensor
-Lilypad mp3 player
-LED
-Speaker
-5V battery
+* MyoWare Muscle Sensor
+* Lilypad mp3 player
+* LED
+* Speaker
+* 5V battery
 
 ### Final Form 
 ![alt text](images/08front.png "schematic")
